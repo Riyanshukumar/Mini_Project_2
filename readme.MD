@@ -4,7 +4,7 @@
 
 ## feature_extraction.ipynb contains the code that we have used to extract features from given datasets.
 
-## Mini_Project_2.pdf is the project report.
+## Group_59_project_2_report.pdf is the project report.
 
 ## extracted_feature contains the feature extracted from given raw data using VIT.
 
